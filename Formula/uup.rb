@@ -1,4 +1,4 @@
-class uup < Formula
+class Uup < Formula
     desc "A fast and lightweight ping alternative for macOS"
     homepage "https://github.com/jackdcasey/uup"
     url "https://github.com/jackdcasey/uup/releases/download/v1.0/uup-darwin-amd64.tar.gz",
